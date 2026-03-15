@@ -19,7 +19,7 @@ jobs:
       - name: Configure Git
         run: |
           git config user.name 'Satwik Singh'
-          git config user.email 's000ik@users.noreply.github.com'
+          git config user.email 'ssatwik975@gmail.com'
 
       - name: Setup Node.js
         uses: actions/setup-node@v3
